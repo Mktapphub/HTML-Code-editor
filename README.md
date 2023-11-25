@@ -1,5 +1,5 @@
 # HTML-Code-editor
-This is a html code editor or html IDE. i have made this using html,sass (css) and javascript and some javascript Library. (bootstrap, Jquery,popper)
+This is a html code editor or html IDE. i have made this using html,sass (css) and javascript and some javascript Library. ( Jquery,popper)
 
 Bootstrap - Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development.Bootstrap utilizes Sass for a modular and customizable architecture.
 
